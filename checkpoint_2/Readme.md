@@ -1,18 +1,22 @@
 
 If you're not already, please go into the checkpoint_2 directory.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-
+    
 Remove the foo/bar/baz directory (do not use cd here...)
     
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-        
+    pushd foo/ 
+    pushd bar/ 
+    rmdir baz/ 
+    popd 
+    rmdir bar 
+    popd 
+    rmdir foo/
+    
 Create an empty file named file2.txt
         
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-            
+    touch file2.txt
+    
 Let's copy foo/bar/file1.txt to foo/some_other_file.txt
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-    
-
+    pushd foo/bar/
+    cp file1.txt some_other_file.txt
