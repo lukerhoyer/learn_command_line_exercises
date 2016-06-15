@@ -1,50 +1,50 @@
 
 Create a directory named foo_bar
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    mkdir foo_bar
     
 Go into the foo_bar directory
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    cd foo_bar
 
 For each question that is asked below, please provide the command you would run to find the answer, and then answer the question.
 
 1) What directory are you in?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    foo_bar
 
 2) Are you in the class directory?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    yes (pwd)
     
 3) Are you in a subdirectory of the class directory?
     
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    yes (pwd)
     
 4) Please make a directory called "My Stuff"
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    mkdir "My Stuff"
     
 5) What directory are you in now?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    ls foo_bar
     
 6) Go into the "My Stuff" directory
  
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   cd My stuff
  
 7) What directory are you in now?
      
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    My Stuff
       
 8) Find that directory in the graphical file browser (Finder on Mac).
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-
+    search in the workspace directory>davinci>build...2016>homework>foo_bar>My Stuff
+    
 9) Please go up two directories.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    cd .. then cd ..
     
 10) What directory are you in now?
      
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    temp (1 above foo_bar)
