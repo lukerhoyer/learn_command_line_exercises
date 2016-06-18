@@ -5,6 +5,8 @@
 
 ### On Unix, try the ls -lR command while you're in temp.
 
+    It lists every directory, and subdirectory, and when changes were made.
+    
 ### Use cd to get to other directories on your computer then use ls to see what's in them.
 
     (master) Luke
