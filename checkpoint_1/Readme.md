@@ -15,7 +15,7 @@ For each question that is asked below, please provide the command you would run 
 
 2) Are you in the class directory?
 
-    yes (pwd)
+    no, I am in a subdirectory (pwd)
     
 3) Are you in a subdirectory of the class directory?
     
@@ -43,7 +43,7 @@ For each question that is asked below, please provide the command you would run 
     
 9) Please go up two directories.
 
-    cd .. then cd ..
+    cd ../..
     
 10) What directory are you in now?
      
