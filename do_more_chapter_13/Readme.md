@@ -5,9 +5,9 @@
 
 ### Make a few more text files and work with cat.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-
+    cp ex.12 good
+    cat good/ex.12
+    
 ### Unix: Try cat ex12.txt ex13.txt and see what it does.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-
+    the entire file is displayed
