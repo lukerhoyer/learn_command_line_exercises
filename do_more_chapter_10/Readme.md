@@ -10,7 +10,7 @@
     
 ### Copy a file to your home directory or desktop.
 
-    cp awesome.txt desktop/
+    cp awesome.txt ~/desktop/
     
 ### Find these files in your graphical user interface and open them in a text editor.
 
