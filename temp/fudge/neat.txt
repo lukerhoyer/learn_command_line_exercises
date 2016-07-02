@@ -1,1 +1,4 @@
-Hello
+./Library/Application Support/Steam/steamapps/common/Rollercoaster Tycoon 3 Gold/RollerCoaster Tycoon 3 Platinum.app/Contents/GameData/Movies/AspyrLogo_800x600_30fps.mov
+./Library/Application Support/Steam/steamapps/common/Rollercoaster Tycoon 3 Gold/RollerCoaster Tycoon 3 Platinum.app/Contents/GameData/Movies/AtariLogo_800x600_30fps.mov
+./Library/Application Support/Steam/steamapps/common/Rollercoaster Tycoon 3 Gold/RollerCoaster Tycoon 3 Platinum.app/Contents/GameData/Movies/FrontierLogo_800x600_30fps.mov
+./Library/Messages/Attachments/cb/11/D644A8D5-2D13-489A-8948-CD9ABF998375/IMG_2865.MOV.mov
