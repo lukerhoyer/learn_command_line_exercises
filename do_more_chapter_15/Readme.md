@@ -7,16 +7,16 @@
 
 ### Explain what the | symbol does
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-    
+    The | symbol redirects a command to another file/directory
+        
 ### Explain what the < symbol does
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-    
+    The < symbol moves the input from the file on the right to the file on the right
+        
 ### Explain what the > symbol does
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-    
+    The > symbol takes the ouput of the command on the left and writes it to the right file
+        
 ### Explain what the >> symbol does
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    The >> symbol takes the output of the left command and appends it
