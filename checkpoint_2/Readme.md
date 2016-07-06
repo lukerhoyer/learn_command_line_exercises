@@ -4,12 +4,8 @@ If you're not already, please go into the checkpoint_2 directory.
     
 Remove the foo/bar/baz directory (do not use cd here...)
     
-    pushd foo/ 
-    pushd bar/ 
-    rmdir baz/ 
-    popd 
-    rmdir bar 
-    popd 
+    rmdir foo/bar/baz/ 
+    rmdir foo/bar/
     rmdir foo/
     
 Create an empty file named file2.txt
