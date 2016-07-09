@@ -15,11 +15,11 @@ For each question that is asked below, please provide the command you would run 
 
 2) Are you in the class directory?
 
-    no, I am in a subdirectory (pwd)
+    no, I am in a subdirectory (pwd /Users/lukehoyer/workspace/davinci_coders_t2_2016/homework/learn_command_line_exercises/foo_bar)
     
 3) Are you in a subdirectory of the class directory?
     
-    yes (pwd)
+    yes (pwd /Users/lukehoyer/workspace/davinci_coders_t2_2016/homework/learn_command_line_exercises/foo_bar)
     
 4) Please make a directory called "My Stuff"
 
