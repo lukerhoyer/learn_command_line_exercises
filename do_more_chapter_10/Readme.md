@@ -6,7 +6,7 @@
 
 ### Use the cp -r command to copy more directories with files in them.
 
-    cp awesome.txt foo_bar/
+    cp -r every/ foo_bar/
     
 ### Copy a file to your home directory or desktop.
 
